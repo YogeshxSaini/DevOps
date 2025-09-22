@@ -1,27 +1,45 @@
-## [1.3.2](https://github.com/Pradumnasaraf/DevOps/compare/v1.3.1...v1.3.2) (2022-12-11)
+## [2.3.1](https://github.com/Pradumnasaraf/DevOps/compare/v2.3.0...v2.3.1) (2024-09-17)
 
 
 ### Bug Fixes
 
-* the broken path on hosted website ([f3494ae](https://github.com/Pradumnasaraf/DevOps/commit/f3494ae339ecc1473387942dfbc9862624c70c7a))
+* Update Docker build and push actions to build and push multi-arch images ([#99](https://github.com/Pradumnasaraf/DevOps/issues/99)) ([f537f16](https://github.com/Pradumnasaraf/DevOps/commit/f537f162f737aceb9ccc95394e93ed677a10b2f8))
 
 
 
-## [1.3.1](https://github.com/Pradumnasaraf/DevOps/compare/v0.1.0...v1.3.1) (2022-11-18)
-
-
-### Bug Fixes
-
-* extra spacing ([18360a9](https://github.com/Pradumnasaraf/DevOps/commit/18360a9b9371aeb78ff22bbb92443520d5dd2365))
-
-
-
-# [0.1.0](https://github.com/Pradumnasaraf/DevOps/compare/753b1b7a5c1e8c40816946ee0d08a36f13675029...v0.1.0) (2022-10-17)
+# [2.3.0](https://github.com/Pradumnasaraf/DevOps/compare/v2.2.0...v2.3.0) (2024-08-02)
 
 
 ### Features
 
-* Added initial files ([753b1b7](https://github.com/Pradumnasaraf/DevOps/commit/753b1b7a5c1e8c40816946ee0d08a36f13675029))
+* add algolia search functionality ([#95](https://github.com/Pradumnasaraf/DevOps/issues/95)) ([e709c08](https://github.com/Pradumnasaraf/DevOps/commit/e709c089adefbab3a57aa6cef08863441cefd9bf))
+
+
+
+# [2.2.0](https://github.com/Pradumnasaraf/DevOps/compare/v2.1.0...v2.2.0) (2024-07-27)
+
+
+### Features
+
+* add a FAQ section and some nitpicks ([0902e86](https://github.com/Pradumnasaraf/DevOps/commit/0902e8620b1c29685ba269b0819bf2b45404776c))
+
+
+
+# [2.1.0](https://github.com/Pradumnasaraf/DevOps/compare/v2.0.2...v2.1.0) (2024-07-25)
+
+
+### Features
+
+* update intro and config ([a8727bb](https://github.com/Pradumnasaraf/DevOps/commit/a8727bb21e033886d0d201da74d9dd68777152cb))
+
+
+
+## [2.0.2](https://github.com/Pradumnasaraf/DevOps/compare/v1.5.1...v2.0.2) (2024-07-24)
+
+
+### Bug Fixes
+
+* Bump package version to 2.0.1 ([a429f46](https://github.com/Pradumnasaraf/DevOps/commit/a429f4660a4ff4407622fca49c6eb3dfd1ce8cf2))
 
 
 
